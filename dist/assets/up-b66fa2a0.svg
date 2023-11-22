@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="223.5" height="103.25" viewBox="0 0 223.5 103.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke-width: 1.5px;
+        fill-rule: evenodd;
+        stroke: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="394.5" y1="177.375" x2="394.5" y2="75.625" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00d2eb"/>
+      <stop offset="1" stop-color="#00d2eb" stop-opacity="0.502"/>
+    </linearGradient>
+  </defs>
+  <path id="上移" class="cls-1" d="M283.5,124.581l111,52.783,111-50.863L395.341,75.637Z" transform="translate(-282.75 -74.875)"/>
+</svg>
